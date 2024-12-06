@@ -104,4 +104,4 @@ server <- function(input, output, session) {
 shinyApp(ui, server)
 
 # Render app
-shinylive::export(appdir = "C://Users//bryan//OneDrive//Desktop//Portfolio", destdir = "docs")
+shinylive::export(appdir = "C:\\Users\\bryan\\OneDrive\\Documents\\GitHub\\bryanmantell.github.io", destdir = "docs")
